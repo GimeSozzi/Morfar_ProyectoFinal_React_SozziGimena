@@ -123,8 +123,13 @@ src/
 
 ## Link a la Aplicación
 
-¡Prueba la versión final de Morf.ar aquí!
-https://morfar.vercel.app (Pendiente de publicación)
+Prueba la versión final de Morf.ar aquí:
+https://morfar-proyecto-final-react-sozzi-gimena.vercel.app/
+
+## Demo
+
+Explora la aplicación en acción:
+![Navegabilidad de Morf.ar](./morfar-gif.gif)
 
 ## Créditos
 
