@@ -1,0 +1,23 @@
+.cart-widget {
+  display: flex;
+  color: #ff4757;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+}
+
+.cart-badge {
+  background-color: #ff4757;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.9rem;
+  font-weight: bold;
+  /* Transición suave para cambios */
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.cart-badge.updated {
+  background-color: #e84118;
+  transform: scale(1.1);
+}

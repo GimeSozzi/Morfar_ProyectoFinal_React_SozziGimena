@@ -1,0 +1,27 @@
+.custom-nav-link {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: white;
+  background-color: #ff4757;
+  border: none;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.custom-nav-link:hover {
+  background-color: #ff4757;
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.custom-nav-link:active,
+.custom-nav-link:focus {
+  color: white;
+  background-color: #ff4757;
+  text-decoration: none;
+}
